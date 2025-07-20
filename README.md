@@ -18,16 +18,19 @@ FixMyRoad is a web-based platform designed to help citizens report road-related 
 ## 🛠️ Tech Stack
 
 **Frontend:**
+
 - React.js
 - Tailwind CSS or Bootstrap (if used)
 - Axios
 
 **Backend:**
+
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
 
 **Other Tools:**
+
 - JWT for authentication
 - Cloudinary for image storage (optional)
 - Mapbox/Leaflet.js or Google Maps API for location tagging
@@ -50,3 +53,4 @@ npm install
 # Install client dependencies
 cd ../frontend
 npm install
+```
