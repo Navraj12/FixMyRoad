@@ -7,8 +7,6 @@ dotenv.config();
 
 //Routes
 
-import authRoute from "./routes/authRoute.js";
-
 //end routes
 
 app.use(express.json());
@@ -29,8 +27,11 @@ app.get("/", (req, res) => {
     message: "I am here",
   });
 });
+import authRoute from "./routes/authRoute.js";
+import locationRoute from "./routes/locationRoute.js";
 
 app.use("/api/auth", authRoute);
+app.use("/api/location", locationRoute);
 
 // listen server
 const PORT = process.env.PORT;
