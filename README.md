@@ -1,6 +1,6 @@
 # 🛠️ FixMyRoad
 
-FixMyRoad is a web-based platform designed to help citizens report road-related issues such as potholes, broken infrastructure, and poor road conditions. This project aims to create a bridge between the public and the concerned authorities for faster and more effective road maintenance.
+FixMyRoad is web-based platform designed to help citizens report road-related issues such as potholes, broken infrastructure, and poor road conditions. This project aims to create a bridge between the public and the concerned authorities for faster and more effective road maintenance.
 
 ---
 
